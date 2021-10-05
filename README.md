@@ -12,6 +12,6 @@ Sonra ikinci kez Set tipinden bir veri yapısı kullanın ve kitapları sayfa sa
 Book sınıfı kitap ismi, sayfa sayısı, yazarın ismi, yayın tarihi değişkenlerinden oluşmaktadır.
 
 
-![Collections](src\main\resources\images\img.png)
+![Collections](src/main/resources/images/img.png)
 
 
